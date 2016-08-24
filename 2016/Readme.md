@@ -1,3 +1,7 @@
 ### Readme - Notes - 2016
 
-A collection of weekly course notes for Spring 2016 semester.
+A collection of weekly course notes for 2016.
+
+#### Contents
+* Fall
+* Spring
