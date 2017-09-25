@@ -1,6 +1,3 @@
 ### Notes - Extras - HTML5
 
-A collection of extra documents and resources for Comp 424.
-
-#### Contents
-* HTML5 - Intro
+A collection of extra documents and resources on HTML5 for Comp 424.
